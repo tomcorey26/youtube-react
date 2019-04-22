@@ -12,7 +12,7 @@ exports[`renders HeaderNav 1`] = `
   >
     <Image
       as="img"
-      size="tiny"
+      size="big"
       src="logo.jpg"
       ui={true}
     />
